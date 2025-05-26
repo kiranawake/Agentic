@@ -1,0 +1,11 @@
+langchain
+python-dotenv
+streamlit
+faiss-cpu
+altair
+tiktoken
+huggingface-hub
+InstructorEmbedding
+sentence-transformers
+langchain_groq
+langchain-community

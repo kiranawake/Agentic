@@ -1,0 +1,5 @@
+[
+  {
+    "error": "Failed to screen resumes: INSTRUCTOR._load_sbert_model() got an unexpected keyword argument 'token'"
+  }
+]
