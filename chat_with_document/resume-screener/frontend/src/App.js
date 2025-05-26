@@ -111,7 +111,7 @@ function App() {
       <Container component="main" maxWidth="lg" sx={{ mb: 4 }}>
         <Paper variant="outlined" sx={{ my: { xs: 3, md: 6 }, p: { xs: 2, md: 3 }, mt: 8 }}>
           <Typography component="h1" variant="h4" align="center" gutterBottom>
-            Resume Screening Tool
+            Resume Screening Tool 
           </Typography>
           
           <Stepper activeStep={activeStep} sx={{ pt: 3, pb: 5 }}>
